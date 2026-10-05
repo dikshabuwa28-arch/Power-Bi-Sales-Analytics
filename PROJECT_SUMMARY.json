@@ -1,0 +1,9 @@
+{
+  "files": 16,
+  "sales_rows": 12000,
+  "customers": 250,
+  "products": 40,
+  "date_rows": 1096,
+  "total_sales": 1841219760.14,
+  "total_profit": 535196239.14
+}
